@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Vote for the GOAT
+title: Europe
 search_exclude: true
 permalink: /voteforthegoat/home
 menu: nav/vote_for_the_goat.html

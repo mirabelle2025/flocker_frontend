@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Shared Interests
+title: Asia
 search_exclude: true
 permalink: /shared_interests/home
 menu: nav/shared_interests.html

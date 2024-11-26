@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Rate and Relate
+title: South America
 search_exclude: true
 permalink: /rate_and_relate/home
 menu: nav/rate_and_relate.html
