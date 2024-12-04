@@ -1,8 +1,9 @@
 ---
-layout: post
-title: Learn 🤔
+layout: post 
+title: Reviews🍴
 search_exclude: true
-permalink: /create_and_compete/zoominguess
+permalink: /create_and_compete/culinary
 menu: nav/create_and_compete.html
 author: Mirabelle, Arshia, Prajna, Claire, Zoe, Sanya
 ---
+
