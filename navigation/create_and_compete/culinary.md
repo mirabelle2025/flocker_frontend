@@ -7,6 +7,9 @@ menu: nav/create_and_compete.html
 author: Mirabelle, Arshia, Prajna, Claire, Zoe, Sanya
 ---
 
+<h3>Share your thoughts wit us!</h3>
+
+
 <div class="main">
     <div class="content">
         <div class="form-container">
