@@ -6,6 +6,8 @@ permalink: /rate_and_relate/home
 menu: nav/rate_and_relate.html
 ---
 
+<h4>Welcome to South America!</h4>
 
+This is a continent full of diversity and culture. Click on the Reviews page to talk about your experience, explore to find restaurants, and learn more to learn about the food. 
 
-This is the page where groups from Mr. Brown's period 5 AP CSP class will have their websites!
+blahbalashalbalahbakfjdljaljksdfneifaldkfmdkf
