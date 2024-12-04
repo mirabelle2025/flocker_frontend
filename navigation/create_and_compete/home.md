@@ -1,5 +1,6 @@
 ---
 layout: post 
+title: Africa
 search_exclude: true
 permalink: /create_and_compete/home
 menu: nav/create_and_compete.html
